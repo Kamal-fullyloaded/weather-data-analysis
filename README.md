@@ -43,9 +43,19 @@ df.head()
 
 ![image](https://github.com/user-attachments/assets/835c3b11-3a99-4cc1-8ef5-1edd5b937754)
 
+![image](https://github.com/user-attachments/assets/5ba610ee-20b0-473a-8ca1-52dedc3be88c)
 
+![image](https://github.com/user-attachments/assets/7125784b-7c1a-4fd7-8236-99555773291e)
 
+![image](https://github.com/user-attachments/assets/d7989622-c193-44ea-9079-7cf9373bbd97)
 
+![image](https://github.com/user-attachments/assets/a9b98a0b-779d-4efa-92e9-9e1959b8e024)
+
+![image](https://github.com/user-attachments/assets/717a2869-0b5a-415d-bb71-5ddbf5b32452)
+
+![image](https://github.com/user-attachments/assets/38c2b1f9-00fe-4f69-85f8-97dd173eedb0)
+
+![image](https://github.com/user-attachments/assets/4204ba0a-2821-45c4-8ebd-766449c12c47)
 
 
 
