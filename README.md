@@ -25,5 +25,27 @@ df.head()
 
 ![image](https://github.com/user-attachments/assets/daa7a9e1-2c31-43f9-86a1-e4837a671c11)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3209e0c3-79fd-46b3-ad8b-ed151955fd24)
+
+![image](https://github.com/user-attachments/assets/e972710f-9be3-4ed5-b6e1-cb86904aa119)
+
+![image](https://github.com/user-attachments/assets/3d46f3c8-4ad7-4449-bfd5-65c98651324b)
+
+![image](https://github.com/user-attachments/assets/2bfd02a2-3527-4a90-aaa5-39b54d3b3ab2)
+
+![image](https://github.com/user-attachments/assets/fc38a325-04ff-4357-98eb-0c78c55e3d23)
+
+![image](https://github.com/user-attachments/assets/0ae9f70b-70b7-4806-9765-50d8161c15c5)
+
+![image](https://github.com/user-attachments/assets/d8923fca-063e-4695-bfe6-4e1ae6bea6fe)
+
+![image](https://github.com/user-attachments/assets/0364d1a5-ffc4-4a8d-9857-709ebe140544)
+
+![image](https://github.com/user-attachments/assets/835c3b11-3a99-4cc1-8ef5-1edd5b937754)
+
+
+
+
+
+
 
